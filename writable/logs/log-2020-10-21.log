@@ -1,0 +1,30 @@
+CRITICAL - 2020-10-21 12:47:31 --> Cannot use object of type CodeIgniter\Session\Session as array
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->register()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-21 12:48:15 --> Cannot use object of type CodeIgniter\Session\Session as array
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->register()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-21 12:49:54 --> Call to undefined function App\Controllers\sessoin()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->register()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-21 12:51:36 --> Call to undefined function App\Controllers\sessoin()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->register()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-21 12:52:50 --> Call to undefined function App\Controllers\sessoin()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->register()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

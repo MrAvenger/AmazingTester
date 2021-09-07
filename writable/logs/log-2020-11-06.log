@@ -1,0 +1,10 @@
+CRITICAL - 2020-11-06 16:54:58 --> Unable to connect to the database.
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Model.php(462): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Tests.php(10): CodeIgniter\Model->findAll()
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Tests->index()
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tests))
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.411), rgba(0, 0, 0, 0.151)), url("https://spb.ranepa.ru/images/ftab/2019-01-29-1.jpg");
+    background-color: white;
+/* Фоновое изображение выровнено по центру в горизонтальной и вертикальной плоскостях */   background-position: center center;      
+/* Фон не повторяется */   background-repeat: no-repeat;      
+/* Фон зафиксирован в области просмотра и потому не двигается, когда высота контента превышает высоту изображения */   background-attachment: fixed;      
+/* Это свойство заставляет фон менять масштаб при изменении размеров содержащего его контейнера*/   background-size: cover;      
+/* Цвет фона, который будет отображаться при загрузке фоновой картинки*/  
+}
+.form-wrapper{
+    border-radius: 7px;
+}
+.form-wrapper label{
+    font-weight: bold;
+}
+.errors li{
+    list-style: none;
+    width: 100%;
+    text-align: center;
+}
+.errors ul{
+    padding-left: 0;
+    margin-bottom: 0;
+}
+@media (max-width:786px){
+    .form-wrapper .text-right{
+        text-align: center !important;
+    }
+    .form-wrapper .btn.primary{
+        display: block;
+        margin: 0 auto;
+    }
+}

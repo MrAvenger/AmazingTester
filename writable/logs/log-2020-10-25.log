@@ -1,0 +1,1135 @@
+CRITICAL - 2020-10-25 19:24:21 --> Class 'App\Controllers\Google_Client' not found
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:24:22 --> Class 'App\Controllers\Google_Client' not found
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:24:22 --> Class 'App\Controllers\Google_Client' not found
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:24:22 --> Class 'App\Controllers\Google_Client' not found
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:24:23 --> Class 'App\Controllers\Google_Client' not found
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:24:23 --> Class 'App\Controllers\Google_Client' not found
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:24:23 --> Class 'App\Controllers\Google_Client' not found
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:24:23 --> Class 'App\Controllers\Google_Client' not found
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:27:31 --> App\Controllers\Users::login_google(): Failed opening required 'C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\libraries/vendor/GoogleApi/autoload.php' (include_path='.')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-10-25 19:27:31 --> App\Controllers\Users::login_google(): Failed opening required 'C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\libraries/vendor/GoogleApi/autoload.php' (include_path='.')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-10-25 19:27:32 --> App\Controllers\Users::login_google(): Failed opening required 'C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\libraries/vendor/GoogleApi/autoload.php' (include_path='.')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-10-25 19:27:32 --> App\Controllers\Users::login_google(): Failed opening required 'C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\libraries/vendor/GoogleApi/autoload.php' (include_path='.')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-10-25 19:27:32 --> App\Controllers\Users::login_google(): Failed opening required 'C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\libraries/vendor/GoogleApi/autoload.php' (include_path='.')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-10-25 19:27:32 --> App\Controllers\Users::login_google(): Failed opening required 'C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\libraries/vendor/GoogleApi/autoload.php' (include_path='.')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-10-25 19:27:32 --> App\Controllers\Users::login_google(): Failed opening required 'C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\libraries/vendor/GoogleApi/autoload.php' (include_path='.')
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-10-25 19:28:40 --> Call to a member function setClientId() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:45:45 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:45:46 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:46:29 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:50:15 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:50:24 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:50:25 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:50:25 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:50:25 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:50:36 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:50:36 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:50:36 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:50:37 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:50:37 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:50:38 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:50:38 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:50:39 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:51:21 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:51:22 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:51:22 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:51:22 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:51:23 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:51:23 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:51:23 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:51:24 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:51:24 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:51:24 --> Call to a member function getVar() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:55:19 --> Use of undefined constant PATH - assumed 'PATH' (this will throw an Error in a future version of PHP)
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\Users\\Matvey...', 151, Array)
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-25 19:55:24 --> syntax error, unexpected ';'
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\Users\\Matvey...')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 19:55:25 --> syntax error, unexpected ';'
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\Users\\Matvey...')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 19:55:25 --> syntax error, unexpected ';'
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\Users\\Matvey...')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 19:55:25 --> syntax error, unexpected ';'
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\Users\\Matvey...')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 19:55:25 --> syntax error, unexpected ';'
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\Users\\Matvey...')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 19:55:40 --> syntax error, unexpected 'STORAGEPATH' (T_STRING), expecting ',' or ';'
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\Users\\Matvey...')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 19:58:32 --> Call to a member function userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:58:33 --> Call to a member function userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:58:39 --> Call to a member function userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:58:40 --> Call to a member function userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:58:56 --> Call to undefined method App\Controllers\Users::session()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:58:56 --> Call to undefined method App\Controllers\Users::session()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:58:57 --> Call to undefined method App\Controllers\Users::session()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:58:57 --> Call to undefined method App\Controllers\Users::session()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:58:57 --> Call to undefined method App\Controllers\Users::session()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:58:58 --> Call to undefined method App\Controllers\Users::session()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:58:58 --> Call to undefined method App\Controllers\Users::session()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:59:29 --> Call to undefined method App\Controllers\Users::session()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:59:29 --> Call to undefined method App\Controllers\Users::session()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:59:30 --> Call to undefined method App\Controllers\Users::session()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:59:56 --> Call to undefined method App\Controllers\Users::userdata()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:59:56 --> Call to undefined method App\Controllers\Users::userdata()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:59:57 --> Call to undefined method App\Controllers\Users::userdata()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:59:57 --> Call to undefined method App\Controllers\Users::userdata()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 19:59:57 --> Call to undefined method App\Controllers\Users::userdata()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:00:39 --> Call to undefined method App\Controllers\Users::session()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:00:40 --> Call to undefined method App\Controllers\Users::session()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:00:54 --> Call to undefined method App\Controllers\Users::session()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:03:32 --> Call to a member function userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:03:33 --> Call to a member function userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:03:38 --> Call to a member function userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:03:39 --> Call to a member function userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:03:40 --> Call to a member function userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:03:40 --> Call to a member function userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:06:11 --> Object of class CodeIgniter\Session\Session could not be converted to string
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(218): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\Users\\Matvey...', 218, Array)
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-25 20:16:00 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:16:01 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:16:17 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:16:17 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:16:17 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:16:35 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:16:36 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:16:36 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:16:36 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:16:36 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:16:36 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:16:53 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:16:54 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:16:54 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:16:54 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login_google()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:24:52 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:24:54 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:25:00 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:25:01 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:25:19 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:25:21 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:25:21 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:55 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:56 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:56 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:56 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:56 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:57 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:57 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:58 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:58 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:58 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:58 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:59 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:59 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:59 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:59 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:59 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:59 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:28:59 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:29:00 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:29:00 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:29:00 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:29:00 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:29:00 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:29:00 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:29:00 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:29:01 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:29:01 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:29:01 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:29:01 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:29:01 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:29:01 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:29:52 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:31:48 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:36:29 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:36:30 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:36:40 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:36:42 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:36:44 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:37:13 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:37:13 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:37:14 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:37:45 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:37:45 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:37:45 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:37:46 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:37:57 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:37:57 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:37:57 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:37:57 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:38:02 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:40:31 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:40:32 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:40:32 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:40:32 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:40:32 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:40:33 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:40:33 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:40:42 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:40:57 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:41:05 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:41:05 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:41:05 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:41:06 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:41:06 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:41:06 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:41:06 --> Call to a member function set() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:44:45 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:44:46 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:44:54 --> Call to a member function set_user_data() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:44:54 --> Call to a member function set_user_data() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:44:54 --> Call to a member function set_user_data() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:46:51 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:46:51 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:46:51 --> Call to a member function set_userdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:51:15 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:52:56 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:52:56 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 20:52:57 --> Call to a member function get() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 21:24:33 --> Class 'App\Controllers\Google_Service_Oauth2' not found
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 21:32:09 --> Argument 2 passed to view() must be of the type array, object given, called in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php on line 165
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(165): view('template/login/...', Object(Google_Service_Oauth2_Userinfo))
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-25 21:32:47 --> Argument 2 passed to view() must be of the type array, object given, called in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php on line 165
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(165): view('template/login/...', Object(Google_Service_Oauth2_Userinfo))
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-25 21:33:41 --> Argument 2 passed to view() must be of the type array, object given, called in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php on line 163
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(163): view('template/login/...', Object(Google_Service_Oauth2_Userinfo))
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-25 21:34:41 --> Argument 2 passed to view() must be of the type array, object given, called in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php on line 163
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(163): view('template/login/...', Object(Google_Service_Oauth2_Userinfo))
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-25 21:35:25 --> Argument 2 passed to view() must be of the type array, object given, called in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php on line 165
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(165): view('template/login/...', Object(Google_Service_Oauth2_Userinfo))
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-25 21:36:38 --> Argument 2 passed to view() must be of the type array, object given, called in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php on line 165
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(165): view('template/login/...', Object(Google_Service_Oauth2_Userinfo))
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-25 21:37:26 --> Argument 2 passed to view() must be of the type array, object given, called in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php on line 165
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(165): view('template/login/...', Object(Google_Service_Oauth2_Userinfo))
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-10-25 21:38:37 --> Argument 2 passed to view() must be of the type array, object given, called in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php on line 163
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(163): view('template/login/...', Object(Google_Service_Oauth2_Userinfo))
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->login()
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

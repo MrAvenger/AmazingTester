@@ -1,0 +1,276 @@
+CRITICAL - 2020-11-02 04:11:07 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:11:09 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:11:13 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:11:19 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:11:35 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:11:35 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:11:36 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:12:05 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:12:06 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:12:07 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:12:07 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:12:39 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:12:40 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:13:18 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:13:18 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:13:19 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:13:25 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:13:25 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:14:16 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:14:17 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:14:18 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:14:33 --> Call to undefined function App\Controllers\add()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:18:33 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:19:05 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:19:06 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:19:24 --> Call to undefined function App\Controllers\push()
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:22:26 --> syntax error, unexpected ';', expecting ')'
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('admin/storage')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('admin/storage')
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-02 04:22:26 --> syntax error, unexpected ';', expecting ')'
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\Users\\Matvey...')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-11-02 04:22:27 --> syntax error, unexpected ';', expecting ')'
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\Users\\Matvey...')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-11-02 04:26:09 --> Call to a member function result_array() on array
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:26:09 --> Call to a member function result_array() on array
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:26:23 --> Call to a member function result_array() on array
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:26:24 --> Call to a member function result_array() on array
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:27:52 --> Call to a member function result() on array
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:27:53 --> Call to a member function result() on array
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:27:53 --> Call to a member function result() on array
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 04:36:08 --> A non-numeric value encountered
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Admin.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\Users\\Matvey...', 20, Array)
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-02 04:36:24 --> A non-numeric value encountered
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Admin.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\Users\\Matvey...', 20, Array)
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-02 04:36:35 --> A non-numeric value encountered
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Admin.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\Users\\Matvey...', 20, Array)
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->storage()
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-02 06:25:02 --> Call to a member function result_array() on array
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->get_user()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-02 08:14:24 --> Argument 1 passed to CodeIgniter\Validation\Validation::setRules() must be of the type array, null given, called in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Controller.php on line 218
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Controller.php(218): CodeIgniter\Validation\Validation->setRules(NULL, Array)
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Admin.php(105): CodeIgniter\Controller->validate(NULL)
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->edit_user('4')
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-02 08:15:43 --> Argument 1 passed to CodeIgniter\Validation\Validation::setRules() must be of the type array, null given, called in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Controller.php on line 218
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Controller.php(218): CodeIgniter\Validation\Validation->setRules(NULL, Array)
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Admin.php(105): CodeIgniter\Controller->validate(NULL)
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->edit_user('4')
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-02 08:15:50 --> Argument 1 passed to CodeIgniter\Validation\Validation::setRules() must be of the type array, null given, called in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Controller.php on line 218
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Controller.php(218): CodeIgniter\Validation\Validation->setRules(NULL, Array)
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Admin.php(105): CodeIgniter\Controller->validate(NULL)
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Admin->edit_user('4')
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}

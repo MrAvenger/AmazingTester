@@ -1,0 +1,272 @@
+CRITICAL - 2020-10-24 10:06:51 --> syntax error, unexpected ']'
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\Users\\Matvey...')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\User...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\User...')
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(68): spl_autoload_call('App\\Models\\User...')
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->register()
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-24 10:22:59 --> print_r() expects at least 1 parameter, 0 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r() expec...', 'C:\\Users\\Matvey...', 12, Array)
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Models\UserModel.php(12): print_r()
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Model.php(1735): App\Models\UserModel->beforeInsert(Array)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Model.php(750): CodeIgniter\Model->trigger('beforeInsert', Array)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Model.php(574): CodeIgniter\Model->insert(Array, false)
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(83): CodeIgniter\Model->save(Array)
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->register()
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#8 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-10-24 15:15:49 -->  is not a valid rule.
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('email', 'email', '13shem@gmail.co...', Array, Array)
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(256): CodeIgniter\Controller->validate(Array)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->forgot_password()
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-24 15:16:30 -->  is not a valid rule.
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('email', 'email', '13shem@gmail.co...', Array, Array)
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(256): CodeIgniter\Controller->validate(Array)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->forgot_password()
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-24 15:17:10 -->  is not a valid rule.
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('email', 'email', '13shem@gmail.co...', Array, Array)
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(256): CodeIgniter\Controller->validate(Array)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->forgot_password()
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-24 15:17:47 -->  is not a valid rule.
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('email', 'email', '13shem@gmail.co...', Array, Array)
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(256): CodeIgniter\Controller->validate(Array)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->forgot_password()
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-24 15:17:54 -->  is not a valid rule.
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('email', 'email', '13shem@gmail.co...', Array, Array)
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(256): CodeIgniter\Controller->validate(Array)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->forgot_password()
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-24 15:18:04 -->  is not a valid rule.
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('email', 'email', '13shem@gmail.co...', Array, Array)
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(256): CodeIgniter\Controller->validate(Array)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->forgot_password()
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-24 15:20:21 -->  is not a valid rule.
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('email', 'email', '13shem@gmail.co...', Array, Array)
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(256): CodeIgniter\Controller->validate(Array)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->forgot_password()
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-24 15:20:48 -->  is not a valid rule.
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('email', 'email', '13shem@gmail.co...', Array, Array)
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(256): CodeIgniter\Controller->validate(Array)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->forgot_password()
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-24 15:21:57 -->  is not a valid rule.
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('email', 'email', '13shem@gmail.co...', Array, Array)
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(256): CodeIgniter\Controller->validate(Array)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->forgot_password()
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-24 15:23:25 -->  is not a valid rule.
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(333): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Validation\Validation.php(189): CodeIgniter\Validation\Validation->processRules('email', 'email', '13shem@gmail.co...', Array, Array)
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\Controller.php(219): CodeIgniter\Validation\Validation->run()
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(256): CodeIgniter\Controller->validate(Array)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->forgot_password()
+#5 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-24 16:42:08 --> Too few arguments to function App\Controllers\Users::activate(), 0 passed in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:42:44 --> Too few arguments to function App\Controllers\Users::activate(), 0 passed in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:42:45 --> Too few arguments to function App\Controllers\Users::activate(), 0 passed in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:42:50 --> Too few arguments to function App\Controllers\Users::activate(), 0 passed in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:43:14 --> Too few arguments to function App\Controllers\Users::activate(), 0 passed in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:43:15 --> Too few arguments to function App\Controllers\Users::activate(), 0 passed in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:43:28 --> Too few arguments to function App\Controllers\Users::activate(), 0 passed in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:43:34 --> Too few arguments to function App\Controllers\Users::activate(), 0 passed in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:45:05 --> Too few arguments to function App\Controllers\Users::activate(), 0 passed in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:45:16 --> Too few arguments to function App\Controllers\Users::activate(), 0 passed in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:45:48 --> Too few arguments to function App\Controllers\Users::activate(), 0 passed in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:45:54 --> Too few arguments to function App\Controllers\Users::activate(), 0 passed in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php on line 918 and exactly 1 expected
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate()
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:55:22 --> Class 'App\Controllers\Email' not found
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate('fewfwe11ewf')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:55:42 --> Call to a member function setFlashdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate('fewfwe11ewf')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:55:44 --> Call to a member function setFlashdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate('fewfwe11ewf')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:56:13 --> Call to a member function setFlashdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate('fewfwe11ewf')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:56:17 --> Call to a member function setFlashdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate('1')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:56:50 --> Call to a member function setFlashdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate('1')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 16:58:06 --> Class 'App\Controllers\Email' not found
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->activate('fewfwe11ewf')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 19:50:37 --> Call to a member function setFlashdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->reset('11')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 19:50:39 --> Call to a member function setFlashdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->reset('11')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 19:50:40 --> Call to a member function setFlashdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->reset('11')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 19:50:41 --> Call to a member function setFlashdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->reset('11')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 19:51:28 --> Call to a member function setFlashdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->reset('11')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-24 19:51:36 --> Call to a member function setFlashdata() on null
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->reset('11')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

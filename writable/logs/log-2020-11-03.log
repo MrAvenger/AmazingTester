@@ -1,0 +1,14 @@
+CRITICAL - 2020-11-03 02:40:12 --> Argument 2 passed to view() must be of the type array, string given, called in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php on line 99
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(99): view('template/regist...', '\t<div class="er...')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->register()
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-03 02:40:12 --> Argument 2 passed to view() must be of the type array, string given, called in C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php on line 99
+#0 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\app\Controllers\Users.php(99): view('template/regist...', '\t<div class="er...')
+#1 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Users->register()
+#2 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Matvey\Documents\OSPanel\domains\localhost\Codeigniter4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
