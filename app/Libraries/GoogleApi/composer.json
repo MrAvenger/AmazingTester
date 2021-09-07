@@ -1,0 +1,7 @@
+{
+    "name": "google/login",
+    "description": "google logining",
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
